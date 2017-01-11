@@ -1,6 +1,6 @@
     header {
       text-align: center;
-      background: url("images/banner.jpg");
+      background: url("https://cdn.theatlantic.com/assets/media/img/mt/2015/05/china1/lead_960.jpg?1432827870");
       background-size: cover;
       color: white;
     }
@@ -38,3 +38,7 @@
         display: block;
       }
     }
+#profile {
+  height: 400px;
+  width: auto;
+}
